@@ -22,6 +22,7 @@ py --version
 ```
 python -m venv venv
 ```
+or
 ```
 py -m venv venv
 ```
@@ -30,6 +31,7 @@ py -m venv venv
 ```
 python -m pip install -r requirements.txt
 ```
+or
 ```
 py -m pip install -r requirements.txt
 ```
