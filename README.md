@@ -4,6 +4,7 @@
 1. Clone GitHub repository 
 ```
 git clone https://github.com/nigelmaxwee/myhtxrepo.git
+cd myhtxrepo
 ```
 2. Install requirements.txt
 ```
