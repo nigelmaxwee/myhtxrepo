@@ -9,7 +9,7 @@ cd myhtxrepo
 ```
 
 ## Step 2. Ensure Python is version 3.12
-This is mainly for compatibility with CatBoost
+This is mainly for compatibility with CatBoost <br>
 Download link: https://www.python.org/downloads/release/python-3124/
 ```
 python --version
