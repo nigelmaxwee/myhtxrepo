@@ -1,6 +1,6 @@
 # myhtxrepo
 # Singapore HDB Resale Price Prediction
-## This project aims to develop a predictive model to analyze the factors influencing HDB resale prices in Singapore.
+## This project aims to develop a predictive model to analyse the factors influencing HDB resale prices in Singapore.
 1. Clone GitHub repository 
 ```
 git clone https://github.com/nigelmaxwee/myhtxrepo.git
