@@ -1,6 +1,6 @@
 # Singapore HDB Resale Price Prediction
 
-## To develop a predictive algorithm to determine the factors affecting resale prices of residential properties in Singapore. By understanding these factors, we aim to provide insights into strategies for curbing price inflation and improving housing affordability.
+## Objective: To develop a predictive algorithm to determine the factors affecting resale prices of residential properties in Singapore. By understanding these factors, we aim to provide insights into strategies for curbing price inflation and improving housing affordability.
 
 ## Step 1. Clone GitHub repository 
 ```
