@@ -22,7 +22,7 @@ or
 py --version
 ```
 
-## Step 3. Create a Virtual Environment (Optional)
+## Step 3. Create a virtual environment (Optional)
 ```
 python -m venv venv
 ```
